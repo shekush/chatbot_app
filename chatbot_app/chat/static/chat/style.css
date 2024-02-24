@@ -3,7 +3,10 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    color: pink;
+    padding: 40px;
+    color: darkgray;
+    font-family: monospace;
+    font-size: 4em;
 }
 
 #chatbot{
@@ -42,6 +45,10 @@
     background-color: rgb(40, 48, 40);
     color: white;
     border-radius: 10px;
+}
+
+#buttonInput:hover{
+  background-color: gray;
 }
 
 .botText{
